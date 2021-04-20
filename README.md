@@ -15,7 +15,7 @@ https://www.gutenberg.org/files/65106/65106-0.txt)
 
 ## Process
 ## Gathering Data
-1.To begin, we'll use the urllib.request library to request or pull data from the text data's url. After the data is pulled, it is stored in a temporary file called 'pooja.txt' and will get the text data from 'The Hound of Baskervilles' from gutenberg.org site.
+1.To begin, we'll use the urllib.request library to request or pull data from the text data's url. After the data is pulled, it is stored in a temporary file called 'raju.txt' and will get the text data from 'The Hound of Baskervilles' from gutenberg.org site.
 ```
 # get text data from url
 import urllib.request
